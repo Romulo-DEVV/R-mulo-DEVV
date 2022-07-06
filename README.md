@@ -1,6 +1,9 @@
-## Olá eu sou Romulo Tavares, desenvolvedor Front-end!
-- 📘 Estudando ADS
-<div align="center">
+## Olá! Eu sou Romulo 👋😀
+- 📘 Cursando ADS
+- 🌱 Atualmente estou estudando React JS
+- 👯 Procuro me tornar um desenvolvedor FullStack
+
+<div >
   <a href="https://github.com/romulotavaress">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulotavaress&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulotavaress&layout=compact&langs_count=7&theme=dark"/>
